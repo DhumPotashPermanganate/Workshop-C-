@@ -1,0 +1,8 @@
+﻿  1.cpp
+C:\Users\arigo\Desktop\Workshop Answers\Workshop 1\1.cpp(8,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  2.cpp
+  3.cpp
+  4.cpp
+  Source.cpp
+  Generating Code...
+  Workshop 1.vcxproj -> C:\Users\arigo\source\repos\Workshop 1\x64\Debug\Workshop 1.exe

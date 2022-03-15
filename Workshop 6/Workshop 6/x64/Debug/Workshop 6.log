@@ -1,0 +1,9 @@
+﻿  Task 1.cpp
+C:\Users\arigo\Desktop\Workshop Answers\Workshop 6\Task 1.cpp(4,8): warning C4273: 'round': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(531,44): message : see previous definition of 'round'
+  Task 2.cpp
+C:\Users\arigo\Desktop\Workshop Answers\Workshop 6\Task 2.cpp(36,8): warning C4273: 'round': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(531,44): message : see previous definition of 'round'
+C:\Users\arigo\Desktop\Workshop Answers\Workshop 6\Task 2.cpp(38,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Workshop 6.vcxproj -> C:\Users\arigo\source\repos\Workshop 6\x64\Debug\Workshop 6.exe

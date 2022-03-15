@@ -1,0 +1,6 @@
+﻿  Workshop 7.cpp
+C:\Users\arigo\source\repos\Workshop 7\Workshop 7\Workshop 7.cpp(7,8): warning C4273: 'round': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(531,44): message : see previous definition of 'round'
+C:\Users\arigo\source\repos\Workshop 7\Workshop 7\Workshop 7.cpp(9,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\arigo\source\repos\Workshop 7\x64\Debug\Workshop 7.lib and object C:\Users\arigo\source\repos\Workshop 7\x64\Debug\Workshop 7.exp
+  Workshop 7.vcxproj -> C:\Users\arigo\source\repos\Workshop 7\x64\Debug\Workshop 7.exe
