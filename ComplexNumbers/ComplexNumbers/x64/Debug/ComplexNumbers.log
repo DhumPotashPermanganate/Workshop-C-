@@ -1,0 +1,5 @@
+﻿  ComplexNumbers.cpp
+C:\Users\arigo\source\repos\ComplexNumbers\ComplexNumbers\ComplexNumbers.cpp(4,8): warning C4273: 'round': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(531,44): message : see previous definition of 'round'
+C:\Users\arigo\source\repos\ComplexNumbers\ComplexNumbers\ComplexNumbers.cpp(80,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ComplexNumbers.vcxproj -> C:\Users\arigo\source\repos\ComplexNumbers\x64\Debug\ComplexNumbers.exe
